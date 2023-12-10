@@ -1,2 +1,2 @@
 # CPSC-254
-For general use in my CPSC 254 course
+A repository for general lab use in my CPSC 254 course
